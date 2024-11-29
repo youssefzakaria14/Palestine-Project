@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+:root {
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #d11200;
+    --buttongreen: #038721;
+    --light: #f8f9fa;
+    --dark: #343a40;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto Condensed", sans-serif;
+}
+ 
+.breadcrumb {
+    background-color: transparent;
+    font-size: 1rem;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: 500;
+    color: #333;
+}
+
+section.container {
+    width: 100%;
+    height: auto;
+    background-color: var(--white);
+    padding-left: 90px;
+    border-top: 1px  solid #ccc;
+}
+
+.getinvolved-content
+{
+    background: #edeff1;
+    
+    
+    
+}
+.getinvolved-content .inner{
+    background-color: var(--white);
+    padding: 2.5rem 10rem 2.5rem 10rem
+}
+
+.getinvolved-content .wrapper1{
+    background-image: url(../../Assets/Literature1.webp);
+    background-size: cover;
+    height: 415px;
+    width: 247px;
+    display: grid;
+}
+.getinvolved-content .wrapper2{
+    background-image: url(../../Assets/Literature2.webp);
+    background-size: cover;
+    height: 415px;
+    width: 247px;
+    display: grid;
+}
+.getinvolved-content .wrapper3{
+    background-image: url(../../Assets/Literature3.webp);
+    background-size: cover;
+    height: 415px;
+    width: 247px;
+    display: grid;
+}
+
+
+.getinvolved-content .btn1{
+    
+    
+    background-color: var(--buttongreen);
+    text-decoration: none;
+    display: block;
+    width: 200px;
+    height: 42px;
+    padding: 10px;
+    border-style: solid;
+    border-color: rgb(192, 192, 192);
+    border-width: 1px;
+    border-radius: 4px;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    
+    
+    
+}
+section.getinvolved-content .btn2{
+    background-color: var(--danger);
+    text-decoration: none;
+    display: block;
+    width: 200px;
+    height: 42px;
+    padding: 10px;
+    border-style: solid;
+    border-color: rgb(192, 192, 192);
+    border-width: 1px;
+    border-radius: 4px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    
+    
+}
+section.getinvolved-content .btn3{
+    
+    
+    background-color: var(--buttongreen);
+    text-decoration: none;
+    display: block;
+    width: 200px;
+    height: 42px;
+    padding: 10px;
+    border-style: solid;
+    border-color: rgb(192, 192, 192);
+    border-width: 1px;
+    border-radius: 4px;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    
+    
+    
+}
+.BTN{
+    display: grid;
+    align-items: flex-end;
+    align-content: stretch;
+}
+
+
+
+
+
+
+
+
+

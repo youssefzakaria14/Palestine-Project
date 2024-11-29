@@ -1,0 +1,201 @@
+.articles-menu {
+
+    margin: 7% 50px;
+    padding-left: 20px;
+
+
+}
+
+.lore a {
+
+    display: block;
+    text-decoration: none;
+    border: 1px solid rgb(179, 176, 176);
+    width: 170px;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.lore {
+
+    position: relative;
+    left: 300px;
+    width: 10%;
+    padding-left: 30px;
+    margin-top: 15px;
+}
+
+.lore a i {
+
+    padding-left: 15px;
+    font-size: 20px;
+    color: blue;
+}
+
+.lore a span {
+
+    padding-left: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgba(45, 45, 241, 0.863);
+    width: 100%;
+}
+
+h1 {
+
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 20px;
+    width: 100%;
+}
+
+.waiting {
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+
+.post {
+
+    background-color: rgba(179, 179, 179, 0.404);
+    padding-top: 1px;
+
+}
+
+.write {
+
+    background-color: #fff;
+    margin-top: 0px;
+    width: 67%;
+    height: 25%;
+    margin-left: 120px;
+    padding-top: 15px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+     
+    
+}
+
+@media(max-width:767px) {
+
+    .write {
+
+        margin-top: 35px;
+        height: 30%;
+
+    }
+
+
+}
+
+
+
+.articles-menus {
+
+    margin: 50px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+
+}
+
+
+.section a {
+    display: block;
+    padding-left: 5px;
+    padding-top: 10px;
+    color: #31b435;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 1px;
+    text-decoration: none;
+  width: 110%;
+
+}
+
+
+.newsletter-container {
+    background-color: #f9f9f9;
+    padding: 20px;
+     max-width: 400px;
+    text-align: center;
+    padding-top: 40px;
+    margin-top: 70px;
+}
+
+.next {
+    color: #333;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.fill{
+    color: #666;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.required-info {
+    margin-bottom: 20px;
+    font-size: 12px;
+    color: #999;
+}
+
+.forme {
+    display: flex;
+    flex-direction: column;
+}
+
+.pop{
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+}
+
+.btn-sumbit1{
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btn-sumbit1:hover {
+    background-color: #218838;
+}
+
+
+
+.opp span a {
+    display: block;
+    font-size: 17px;
+    padding-bottom: 20px;
+    padding-top: 12px;
+    color: #26c72b;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.opp {
+
+    background-color: #fff;
+    padding: 10px 20px;
+    width: 110%;
+
+}
+
+.categ {
+
+    padding-top: 10px;
+
+
+}

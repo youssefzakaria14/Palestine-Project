@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(216, 216, 216);
+}
+
+.title22 {
+    width: 100%;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+}
+
+.title22 h1 {
+    font-size: 50px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.main33 {
+    background-color: rgb(255, 255, 255);
+    height: 100%;
+    width: 100%;
+    margin-top: 25px;
+
+}
+
+.main33 .video99 {
+    margin-left: 80px;
+    padding-top: 80px;
+}
+
+.main33 .title1 h5 {
+    width: 100%;
+    background-color: #f7848f;
+    padding: 4px;
+    margin-top: 25px;
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 25px;
+    letter-spacing: 1.2px;
+}
+.main33 .title1 p{
+    width: 60%;
+}
+.sec p
+{
+    padding-left: 25px;
+    padding-top: 20px;
+    font-size: 22px;
+    font-weight: 600;
+    display: inline-block;
+    width: 100%;
+
+}
+.pictures
+{
+    padding-left: 120px;
+    padding-top: 80px;
+}
+.main33 .full
+{
+    padding-left: 210px;
+}
+

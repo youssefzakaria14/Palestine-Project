@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+section.part1 
+{
+    background-color: #FFFFFF;
+    margin-bottom: 100px;
+    padding: 50px 0px;
+}
+section.part1 img{
+    width: 500px;
+    height: 550px;
+}
+section.part2 
+{
+    
+    margin-bottom: 100px;
+    padding: 50px 0px;
+}
+section.part2 img{
+    width: 500px;
+    height: 550px;
+}
+section.part1 h2
+{
+    font-weight: 300;
+}
+section.part1 p
+{
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
+    margin-top: 42px;
+}
+section.part1 a
+{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 26px;
+    margin-left: 200px;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 50px;
+    margin-top: 40px;
+}
+section.part1 .btn.btn-dark{
+    font-size: medium;
+    padding: 11px 36px;
+    
+}
+section.part2 .btn.btn-dark{
+    font-size: medium;
+    padding: 11px 36px;
+    
+}
+section.part2 h2
+{
+    font-weight: 300;
+}
+section.part2 p
+{
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
+    margin-top: 42px;
+}
+section.part2 a
+{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 26px;
+    margin-left: 200px;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 50px;
+}

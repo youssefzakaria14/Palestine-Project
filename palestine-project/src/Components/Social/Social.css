@@ -1,0 +1,39 @@
+section.Last-page{
+  padding: 40px;
+}
+
+section.Last-page form {
+  border: 2px solid rgb(189, 187, 187);
+  padding: 10px;
+  margin-top: 80px;
+}
+
+section.Last-page .btn {
+  padding: 5px 20px;
+}
+
+section.Last-page .iframe1 iframe {
+
+  border: none;
+  visibility: visible;
+  width: 360px;
+  height: 450px;
+}
+section.Last-page h1{
+  padding-left: 60px;
+  padding-bottom: 30px;
+}
+
+/* .iframe1 iframe {
+  position: static;
+  visibility: visible;
+  width: 300px;
+  height: 440px;
+  display: block;
+  flex-grow: 1;
+} */
+
+
+
+
+

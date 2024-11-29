@@ -1,0 +1,66 @@
+section.main-page{
+    background-color: white;
+}
+
+
+section.main-page .campaign-intro {
+    
+    margin: 10px 38px;
+    display: inline-block;
+    width: 270px;
+    height: 200px;
+
+}
+
+section.main-page .campaign-intro h3 {
+    font-size: 2.2em;
+    font-weight: 800;
+}
+
+section.main-page .campaign-intro p {
+    font-size: 17px;
+    font-weight: 500;
+    letter-spacing: 1.3px;
+}
+
+section.main-page .campaign-intro a {
+    width: 130px;
+    
+}
+
+section.main-page .campaign-box {
+    margin: 10px 38px;
+    display: inline-flex;
+    background-color: var(--light);
+    text-decoration: none;
+    transition: ease 0.7s;
+    text-align: center;
+}
+section.main-page .campaign-box a{
+    text-decoration: none;
+}
+
+section.main-page .campaign-box img {
+    padding-top: 10px;
+    width: 80%;
+    height: 30%;
+}
+
+section.main-page .campaign-box h4 {
+    font-size: 22px;
+    font-weight: 500;
+    padding-top: 29px;
+    color: black;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+section.main-page .campaign-box:hover {
+    background-color: #DC3545;
+    transform: scale(1.1);
+    border-radius: 10px;
+}
+
+section.main-page .wrapper {
+    border: 2px solid rgba(255, 255, 255, 0);
+    transition: border-color 0.3s ease;
+}

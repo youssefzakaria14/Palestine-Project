@@ -1,0 +1,114 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto Condensed", sans-serif;
+}
+body{
+    background-color: #edeff1;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    font-size: 1rem;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: 500;
+    color: #333;
+}
+
+section.container {
+    width: 100%;
+    height: auto;
+    background-color: #edeff1;
+    padding-left: 90px;
+    border-top: 1px  solid #ccc;
+}
+
+section.container {
+    width: 100%;
+    height: auto;
+    background-color: var(--white);
+    padding-left: 90px;
+    border-top: 1px  solid #ccc;
+}
+
+section.join-content
+{
+    background: #edeff1;
+    
+}
+section.join-content .inner{
+    background-color: var(--white);
+    padding: 4rem 7rem 4rem 7rem
+}
+
+section.join-content .membership-boxes .one{
+    background-image: url('../../Assets/bg-donate-box.jpg');
+    background-size: cover;
+    width: 277px;
+    height: 300px;
+    flex-direction: column;
+    padding: 20px;
+}
+section.join-content .membership-boxes .two{
+    background-image: url('../../Assets/bg-join-box-2.webp');
+    background-size: cover;
+    width: 277px;
+    height: 300px;
+    flex-direction: column;
+    padding: 20px;
+}
+section.join-content .membership-boxes .details{
+    color: white;
+    font-size: large;
+}
+section.join-content .membership-boxes .box-title{
+    font-weight: bold;
+    font-size: 19.9px;
+}
+section.join-content .membership-boxes .one a.btn{
+    text-decoration: none;
+    background-color: #bd1000;
+    color: white;
+    margin: 5px;
+    width: 108px;
+    height: 45px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: bold;
+    border: 1px  solid white ;
+}
+section.join-content .membership-boxes .two a.btn{
+    text-decoration: none;
+    background-color: #038721;
+    color: white;
+    margin: 5px;
+    width: 108px;
+    height: 45px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-weight: bold;
+    border: 1px  solid white ;
+
+}
+
+section.join-content .text h1{
+    font-size: 3rem;
+}
+
+
+
+
+
+
+

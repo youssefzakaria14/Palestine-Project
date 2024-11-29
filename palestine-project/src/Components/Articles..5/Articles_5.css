@@ -1,0 +1,195 @@
+.articles-5 menu {
+
+    margin: 7% 50px;
+     padding-left: 20px;
+     width: 50%;
+     margin: 20px;
+     
+        
+}
+.articles-5{
+
+
+width: 98%;
+
+}
+
+.lore-5 a {
+
+    display: block;
+    text-decoration: none;
+    border : 1px  solid rgb(179, 176, 176);
+      width: 170px;
+      margin-top: 10px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+}
+.lore-5 {
+
+  position: relative;
+  left: 500px;
+  width: 10%;
+  padding-left: 30px;
+}
+
+.lore-5 a i {
+
+    padding-left: 15px;
+    font-size: 20px
+}
+
+.lore-5 a span {
+
+    padding-left: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgba(45, 45, 241, 0.863);
+}
+.opp-6  {
+
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 30px;
+   width: 140%;
+}
+.waiting-5{
+font-size: 15px;
+padding-top: 10px;
+padding-bottom: 10px;
+text-transform: uppercase;
+}
+
+
+.post-5{
+
+background-color: rgba(179, 179, 179, 0.404);
+padding-top: 1px;
+
+}
+.write-5{
+
+background-color:#fff ;
+margin-top: 0px;
+width: 400px;
+height: 340px;
+margin-left: 120px;
+padding-top: 10px;
+padding-bottom: 40px;
+padding-left: 50px;
+
+padding-left: 10px;
+}
+
+@media(max-width:767px) {
+
+    .write-5{
+
+        margin-top: 25px;
+
+
+    }
+
+
+}
+
+
+
+.articles-menus-5 {
+
+    margin:  50px;
+         padding-left: 20px;
+     padding-bottom: 50px;
+        
+}
+
+.section-5{
+
+padding-left: 10px;
+padding-top: 20px;
+color: #31b435;
+font-size: 15px;
+line-height: 10px;
+padding-bottom: 20px;
+
+
+}
+.opp-7 span a{
+display: block;
+font-size: 17px;
+padding-bottom: 20px;
+padding-top: 12px;
+color: #26c72b;
+text-decoration: none;
+text-transform: uppercase;
+}
+.opp-7{
+
+background-color: #fff;
+padding: 10px 20px;
+width: 110%;
+
+}
+.categ-5{
+
+padding-top: 10px;
+
+
+}
+
+
+.newsletter-container-5 {
+    background-color: #f9f9f9;
+    padding: 20px;
+     max-width: 400px;
+    text-align: center;
+    padding-top: 40px;
+    margin-top: 30px;
+    margin-left: 125px;
+}
+
+.next-5{
+    color: #333;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.fill-5{
+    color: #666;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.required-info-5 {
+    margin-bottom: 20px;
+    font-size: 12px;
+    color: #999;
+}
+
+.forme-5 {
+    display: flex;
+    flex-direction: column;
+}
+
+.pop-5{
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+}
+
+.btn-sumbit1-5{
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btn-sumbit1-5:hover {
+    background-color: #218838;
+}

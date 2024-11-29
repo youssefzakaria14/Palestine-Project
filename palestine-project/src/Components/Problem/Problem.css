@@ -1,0 +1,108 @@
+body{
+    background-color: #edeff1;
+
+font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+
+
+.sec1 .container .col-lg-6
+{
+    background-color: #ffffff;
+}
+.sec1 .card-text p 
+{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    line-height: 1.8;
+    color: #373d3f;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 219, 128);
+}
+a:hover {
+    text-decoration: underline;
+}
+.sec1 .card-news {
+    background-color: red;
+    
+}
+
+.sec2 .container 
+{
+    background-color: #ffffff;
+    
+}
+.sec2 .container .row {
+    width: 80%;
+    margin:  auto;
+}
+.sec2 .container .card-text h1 {
+    font-size: 2.369em;
+    margin: 1.414em 0 .5em;
+    font-family: 'PT Sans';
+    font-weight: 600;
+    line-height: 1.2;
+    color: rgba(0, 0, 0, 0.747);
+}
+.sec2 .container .card-text p {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    line-height: 1.45;
+    color: #373d3f; 
+    font-size: 20px;
+}
+.sec2 .container .card-text li 
+{
+    font-size: 18px;
+}
+.card-picture
+{
+    background-image: url(../../Assets/1-10.png);
+    background-size: 100%;
+    width: 40%; 
+    margin: auto;
+    height: 400px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.bg-image {
+    background-size: cover;
+    background-position: center;
+}
+
+footer p {
+    color: #ccc;
+}
+
+footer a {
+    color: #ccc;
+    transition: color 0.3s ease;
+}
+
+footer a:hover {
+    color: #fff;
+}
+
+footer i {
+    color: #ccc;
+    transition: color 0.3s ease;
+}
+
+footer i:hover {
+    color: #fff;
+}
+.item1 {
+    background-image: url(../../Assets/3i8XmN1.png);
+    height: 800px;
+    background-size: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.text-home {
+    margin-top: 240px;
+}

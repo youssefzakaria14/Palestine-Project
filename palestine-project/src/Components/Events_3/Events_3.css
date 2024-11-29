@@ -1,0 +1,121 @@
+
+.events-info-3 {
+
+    margin: 8% 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 50%;
+    
+} 
+     
+
+.event-3{
+
+
+
+    width: 98%;
+
+}
+.info-8{
+
+width:  170%;
+font-size: 50px;
+font-weight: bold;
+padding-left: 0px;
+
+}
+
+
+.social-media-3 a {
+
+    display: block;
+    text-decoration: none;
+    border: 1px solid rgb(179, 176, 176);
+    width: 170px;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.social-media-3 {
+
+    position: relative;
+    left: 678px;
+    padding-left: 40px;
+ 
+}
+
+.social-media-3 a i {
+
+    padding-left: 15px;
+    font-size: 20px
+}
+
+.social-media-3 a span {
+
+    padding-left: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgba(45, 45, 241, 0.863);
+}
+.posted-3{
+
+
+background-color: #817e7e2c;
+margin-top: 40px;
+padding-top: 20px;
+padding-bottom: 30px;
+
+}
+.posted-info-3{
+
+padding-left: 100px;
+padding-right: 100px;
+width: 87%;
+margin-left:90px ;
+background-color:#fff;
+padding-bottom: 20px;
+
+}
+.posted-image-3 img {
+
+margin-top: 40px;
+width: 600px;
+
+}
+.heading-3{
+
+padding-left: 95px;
+padding-bottom: 10px;
+font-weight: 800;
+text-transform: uppercase;
+font-size: 13px;
+}
+.posted-data-3 {
+
+
+padding-top: 40px;
+font-size: 16px;
+padding-bottom: 20px;
+padding-left: 10px;
+}
+.posted-data-3 h4{
+
+   font-size: 35px; 
+   font-weight: 600;
+   padding-bottom: 20px;
+}
+
+
+.posted-3-icons i{
+
+font-size: 25px;
+color: rgba(22, 9, 9, 0.527);
+
+}
+.TBA{
+
+font-weight: bold;
+text-decoration: underline;
+
+}

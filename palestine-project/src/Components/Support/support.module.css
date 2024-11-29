@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+:root {
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.sec10
+{
+  background-color: white;
+  padding-bottom: 60px;
+}
+.pic1
+{
+  background-image: url(../../Assets/33.webp);
+  background-size: cover;
+}
+.pic2
+{
+  background-image: url(../../Assets/22.webp);
+  background-size: cover;
+}
+.pic3 
+{
+  background-image: url(../../Assets/11.webp);
+  background-size: cover;
+}
+.pic10 h3 
+{
+  color: rgb(255, 255, 255);
+}
+.pic10 p 
+{
+  color: rgb(255, 255, 255);
+}
+.pic10 article
+{
+  color: rgb(255, 255, 255);
+}
+.btn5 
+{
+  margin-left: 40px;
+  margin-right: 60px;
+  background-color: #038721;
+  border: none;
+  padding: 10px 2px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.btn-1
+{
+  background-color: #bd1000;
+}
+ .sec10 h2{
+  font-weight: 700;
+ }
+/* -------- support us --------- */
